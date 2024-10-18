@@ -3,4 +3,5 @@ body {
   color: green;
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
   @apply font-italic;
+  --at-apply: bg-blue;
 }
